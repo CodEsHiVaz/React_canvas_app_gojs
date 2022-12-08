@@ -14,7 +14,7 @@ To add an element double click in empty space.
 
 ### Move elements:
 
-To move an element hold right click and move the element where you want to move.
+To move an element hold right click in center of element and move the element where you want to move.
 
 ### Connect elements:
 
